@@ -1,0 +1,1 @@
+# netcore-small-docker-image
